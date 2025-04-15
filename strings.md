@@ -1,5 +1,5 @@
 # Strings em python
-**Thiago Magnani, Pietro Cardoso, Ken Watanabe, Emily Cavalcante 2°D**
+**Thiago Magnani, Pietro Cardoso, Ken Watanabe, Emily Cavalcante, Murilo Elias 2°D**
 ___
 
 # O que é uma string
