@@ -1,2 +1,2 @@
 # Strings em python
-###Thiago Magnani, Pietro Cardoso, Ken Watanabe, Emily Cavalcante
+### Thiago Magnani, Pietro Cardoso, Ken Watanabe, Emily Cavalcante
